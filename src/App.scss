@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  overflow: auto;
+  font-family: 'Lato', sans-serif;
+}
+
+.app {
+  background: white;
+  margin: 0 auto;
+  width: 810px;
+  margin: 100px auto;
+}
+
+svg {
+  border: none;
+}
