@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/plate-iq/precache-manifest.e50bf629a7a1d821bbcba17994ae7093.js"
+  "/articulate-frontend-challenge/precache-manifest.94fe12e469e995736f0e75a9e59afc34.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/plate-iq/index.html", {
+workbox.routing.registerNavigationRoute("/articulate-frontend-challenge/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
