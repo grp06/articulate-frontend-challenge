@@ -4,7 +4,7 @@ import './App.scss'
 import edit from './images/edit.svg'
 import save from './images/save.svg'
 import flipIcon from './images/flip.svg'
-import defaultCards from './mocks/data.js'
+import defaultCards from './mocks/data.json'
 
 const FlipContainer = styled.div`
   width: 230px;
