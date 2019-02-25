@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "fdbc8b0e9e8ab09ccb64",
-    "url": "/articulate-frontend-challenge/static/css/main.23750341.chunk.css"
+    "revision": "fd2890c794c9e14b266e",
+    "url": "/articulate-frontend-challenge/static/css/main.c328181f.chunk.css"
   },
   {
-    "revision": "fdbc8b0e9e8ab09ccb64",
-    "url": "/articulate-frontend-challenge/static/js/main.fdbc8b0e.chunk.js"
+    "revision": "fd2890c794c9e14b266e",
+    "url": "/articulate-frontend-challenge/static/js/main.fd2890c7.chunk.js"
   },
   {
-    "revision": "2c182119e24c6e4ac36c",
-    "url": "/articulate-frontend-challenge/static/css/1.dec89cd7.chunk.css"
+    "revision": "60e84caf7ad2ab31d22d",
+    "url": "/articulate-frontend-challenge/static/css/1.0ed3fcd5.chunk.css"
   },
   {
-    "revision": "2c182119e24c6e4ac36c",
-    "url": "/articulate-frontend-challenge/static/js/1.2c182119.chunk.js"
+    "revision": "60e84caf7ad2ab31d22d",
+    "url": "/articulate-frontend-challenge/static/js/1.60e84caf.chunk.js"
   },
   {
     "revision": "6f3249d735826403e6d3",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/articulate-frontend-challenge/static/media/flip.ab350bb8.svg"
   },
   {
-    "revision": "bc4410ef8af660a54349007308d2b0f5",
+    "revision": "f8c5907aefb411337e355fc2f152f056",
     "url": "/articulate-frontend-challenge/index.html"
   }
 ];
